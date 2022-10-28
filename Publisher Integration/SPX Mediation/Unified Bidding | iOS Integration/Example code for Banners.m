@@ -13,5 +13,5 @@ SMABannerView.keyValuePairs = KVP;
 [SmaatoSDK prebidBannerForAdSpaceId:@<SMAATO_ADSPACE_ID>"
                          bannerSize:kSMAUbBannerSizeXXLarge_320x50
                          completion:^(SMAUbBid *_Nullable bid, NSError *_Nullable error) {
-     //Loading MoPub ad                              
+     //Loading AdMob ad                              
 }];
