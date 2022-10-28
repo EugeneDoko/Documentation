@@ -14,8 +14,6 @@
 /**
  Optional helper method provides metadata dictionary that allows to fetch related ad creative in case
  of bid prices auction win.
- Mopub best practice:
- A publisher should pass this data to `localExtras` property of Mopub `MPAdView` instance.
  */
 @property (nonatomic, copy, readonly, nonnull) NSDictionary *metaData;
  
