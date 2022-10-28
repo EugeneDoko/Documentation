@@ -12,5 +12,5 @@ SMABannerView.keyValuePairs = KVP
 // Prebid request 
 SmaatoSDK.prebidBanner(forAdSpaceId: "adSpaceId",
                          bannerSize: .xxLarge_320x50) { (bidUnit, error) in
-    //Loading MoPub ad
+    //Loading AdMob ad
 }
